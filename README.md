@@ -32,9 +32,9 @@ I'm a passionate web developer who enjoys building full-stack applications and e
 
 ## 🚀 Projects I'm Proud Of
 
-- 🔗 [To-Do App using EJS & MongoDB](https://github.com/anshgera28) *(Replace with actual project link)*
-- 🔗 [Portfolio Website](https://github.com/anshgera28) *(Replace with actual project link)*
-- 🔗 [Authentication System using Node.js & MongoDB](https://github.com/anshgera28) *(Replace with actual project link)*
+- 🔗 [AI Chatbot](https://github.com/anshgera28/Aichatbot) – An AI-powered chatbot that interacts with users intelligently. Built using Node.js and integrated AI logic.
+- 🔗 [Portfolio Website](https://github.com/anshgera28/portfolio-website) – A personal portfolio site showcasing my skills, projects, and contact info. Built with HTML, CSS, and JavaScript.
+- 🔗 [Food Website](https://github.com/anshgera28/food-website) – A stylish and responsive landing page for a fictional food delivery business. Built with Tailwind CSS and HTML.
 
 ---
 
