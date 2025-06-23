@@ -5,7 +5,7 @@ I'm a passionate **full-stack web developer** who enjoys building dynamic, respo
 - 🌱 Currently diving deep into **advanced backend development** with MongoDB and SQL.
 - 🔭 Working on **real-time apps** using **Node.js, EJS**, and **Tailwind CSS**.
 - 💬 Ask me about **Java, HTML/CSS, JavaScript, MongoDB, or SQL**.
-- 📫 Reach out at: **anshgera947@gmail.com**
+- 📫 **Email me at**: [anshgera947@gmail.com](mailto:anshgera947@gmail.com)
 
 ---
 
@@ -28,27 +28,24 @@ I'm a passionate **full-stack web developer** who enjoys building dynamic, respo
 
 ## 🚀 Projects I'm Proud Of
 
-### 🧠 AI Chatbot
+### 🧠 AI Chatbot  
 An AI-powered chatbot that interacts with users intelligently.  
-**Stack**: Node.js, JavaScript, Express, EJS
-
+**Stack**: Node.js, JavaScript, Express, EJS  
 🔗 [GitHub Repo →](https://github.com/anshgera28/Aichatbot)
 
 ---
 
-### 💬 ChatingZone
+### 💬 ChatingZone  
 A real-time chat app with socket-based communication and clean UI.  
-**Stack**: Node.js, Socket.IO, Tailwind CSS
-
+**Stack**: Node.js, Socket.IO, Tailwind CSS  
 🔗 [GitHub Repo →](https://github.com/anshgera28/CHATINGZONE)
 
 ---
 
-### 💼 JOB HuNT
+### 💼 JOB HuNT  
 A full-featured job portal built with the MERN stack.  
 **Features**: Auth, CRUD jobs, search & filter  
-**Stack**: MongoDB, Express.js, React, Node.js
-
+**Stack**: MongoDB, Express.js, React, Node.js  
 🔗 [GitHub Repo →](https://github.com/anshgera28/JOB-HuNT)
 
 ---
@@ -57,7 +54,7 @@ A full-featured job portal built with the MERN stack.
 
 <div align="center">
 
-![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshgera28&show_icons=true&theme=radical&hide_border=true)
+![Ansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshgera28&show_icons=true&theme=radical&hide_border=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshgera28&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
@@ -68,7 +65,7 @@ A full-featured job portal built with the MERN stack.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshgera947@gmail.com)
+[![Gmail](https://img.shields.io/badge/-anshgera947@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshgera947@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshgera28)
 
 </div>
