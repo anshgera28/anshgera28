@@ -28,22 +28,28 @@ I'm a passionate **full-stack web developer** who enjoys building dynamic, respo
 
 ## 🚀 Projects I'm Proud Of
 
-### 🧠 [AI Chatbot](https://github.com/anshgera28/Aichatbot)
+### 🧠 AI Chatbot
 An AI-powered chatbot that interacts with users intelligently.  
 **Stack**: Node.js, JavaScript, Express, EJS
 
+🔗 [GitHub Repo →](https://github.com/anshgera28/Aichatbot)
+
 ---
 
-### 💬 [ChatingZone](https://github.com/anshgera28/CHATINGZONE)
+### 💬 ChatingZone
 A real-time chat app with socket-based communication and clean UI.  
 **Stack**: Node.js, Socket.IO, Tailwind CSS
 
+🔗 [GitHub Repo →](https://github.com/anshgera28/CHATINGZONE)
+
 ---
 
-### 💼 [JOB HuNT](https://github.com/anshgera28/JOB-HuNT)
+### 💼 JOB HuNT
 A full-featured job portal built with the MERN stack.  
 **Features**: Auth, CRUD jobs, search & filter  
 **Stack**: MongoDB, Express.js, React, Node.js
+
+🔗 [GitHub Repo →](https://github.com/anshgera28/JOB-HuNT)
 
 ---
 
