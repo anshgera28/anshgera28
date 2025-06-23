@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="http://googleusercontent.com/image_generation_content/0" alt="Ansh Gera - Full-Stack Web Developer">
-</div>
-
-<div align="center">
   <h1>👋 Hi, I'm Ansh Gera</h1>
   <h3>A passionate Full-Stack Web Developer, Tech Enthusiast, and Problem Solver dedicated to building innovative and user-centric web applications.</h3>
 </div>
